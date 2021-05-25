@@ -24,6 +24,7 @@ morphct/utils/*
 *.xyz
 *.POSCAR
 *.xml
+*.gsd
 OLD*
 *#*
 *~
