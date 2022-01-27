@@ -19,6 +19,7 @@ dependencies:
 - pip=21.0.1
 - py3dmol=0.8.0
 - python=3.7
+- rdkit
 - scipy=1.7
 - pip:
   - pyscf==1.7
