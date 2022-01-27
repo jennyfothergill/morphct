@@ -12,7 +12,7 @@ dependencies:
 - ipython=7.10.0 
 - jupyterlab=3.0.9
 - matplotlib=3.4.2
-- mbuild=0.11.0
+- mbuild=0.13.1
 - nodejs>=10
 - numpy=1.21
 - openbabel=3.1.1
