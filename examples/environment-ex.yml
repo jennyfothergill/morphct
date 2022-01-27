@@ -22,3 +22,4 @@ dependencies:
 - py3dmol=0.8.0
 - pip:
   - pyscf==1.7
+  - git+https://github.com/cmelab/grits
